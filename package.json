@@ -1,0 +1,31 @@
+{
+  "name": "@ds-javascript/search",
+  "version": "1.0.0",
+  "description": "This is linear and binary search in javscript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opensourcedj217/JSSearch.git"
+  },
+   "keywords": [
+    "javascript ds",
+	"javascript data structure",
+	"data structure"
+    "linear search",
+    "linear search es6",
+    "linear search js",
+    "binary search",
+    "binary search es6",
+    "binary search js",
+    "javascript data structure"
+  ],
+  "author": "Dhananjay Chaudhari <opensourcedj@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opensourcedj217/JSSearch/issues"
+  },
+  "homepage": "https://github.com/opensourcedj217/JSSearch#readme"
+}
